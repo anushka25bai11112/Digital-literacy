@@ -51,4 +51,4 @@ Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdpJcaxg8gRvzWfByhPN5
 ---
 
 ## Project Report
-The complete project report is available in the `report/` folder.
+
