@@ -50,6 +50,5 @@ Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdpJcaxg8gRvzWfByhPN5
 
 ---
 
-## Project Report[
-[Projrct Report](./ProjrctReport)
+## Project Report[[PROJECT REPORT](./ProjectReport.pdf)
 
